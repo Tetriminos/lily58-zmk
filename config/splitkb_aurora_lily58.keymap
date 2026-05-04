@@ -61,7 +61,7 @@
 &kp GRAVE        &none   &mkp LCLK       &mmv MOVE_UP    &mkp RCLK        &mkp MCLK                         &kp N6       &kp N7          &kp N8        &kp N9     &kp N0    &trans
 &kp HOME         &none   &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &msc SCRL_UP                      &kp LEFT     &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &kp END   &trans
 &kp PRINTSCREEN  &none   &none           &none           &none            &msc SCRL_DOWN  &trans    &trans  &kp KP_PLUS  &kp MINUS       &kp EQUAL     &kp LBKT   &kp RBKT  &kp BSLH
-                                         &trans          &trans           &trans          &trans    &trans  &trans       &trans          &trans
+                                         &trans          &trans           &trans          &trans    &trans  &tog 2       &trans          &trans
             >;
         };
     };
